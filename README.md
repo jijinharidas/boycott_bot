@@ -5,7 +5,7 @@ boycott_bot is telegram bot built using [node-telegram-bot-api](https://www.npmj
 
 ## What does this bot do
 
-The bot replies with #boycott-x- to every message containing x, where x is a word mentioned in the boycott_words in [app.js](https://github.com/jijinkh/boycott_bot/blob/master/app.js)
+The bot replies with #boycott-x- to every message containing x, where x is a word mentioned in the boycott_words in app.js
 
 ## How to run this bot
 
@@ -46,6 +46,6 @@ You can add words to boycott by sending a message /boycott followed by the words
 > /boycott college fifa anshual
 
 #### Note : 
-All the  words added using this way will only be boycott listed this runtime. Once the program is restarted it should be done again.
+All the words added this way will only be boycott listed this runtime. Once the program is restarted it should be done again.
 
 
